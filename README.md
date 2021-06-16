@@ -24,7 +24,7 @@
 
 ## Author
 
-👤 **Saurabh Srivastav**
+👤 **Shubham Srivastav**
 
 * Linkedin: [@shub1711](https://www.linkedin.com/in/shub1711/)
 * Github: [@shub1711](https://github.com/shub1711/)
