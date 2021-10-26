@@ -1,4 +1,4 @@
-<h1 align="center">Weather Task 👋</h1>
+<h1 align="center">Weather with Graph 👋</h1>
 <p align="center">
   <a href="#">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
